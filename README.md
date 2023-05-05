@@ -2,6 +2,5 @@
 
 * THIS IS MY LATEST **CV**
 
-[Merve nur çalık.pdf](https://github.com/mivCalik/CurriculumVitae/files/11365700/Merve.nur.calik.pdf)
-
+![MerveNurCalik_cv)](https://user-images.githubusercontent.com/57195581/236468212-bfd9ba90-a99b-4655-8025-e592832c1f10.jpg)
 
