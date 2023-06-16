@@ -2,5 +2,6 @@
 
 * THIS IS MY LATEST **CV**
 
-![MerveNurCalik_cv)](https://user-images.githubusercontent.com/57195581/236468212-bfd9ba90-a99b-4655-8025-e592832c1f10.jpg)
+![MerveNurCalik_cv)](https://github.com/mivCalik/CurriculumVitae/assets/57195581/87a61f08-ee3c-4c6d-8824-80a476c63a99)
+)
 
