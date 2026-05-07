@@ -2,6 +2,6 @@
 
 * THIS IS MY LATEST **CV**
 
+<img alt="image" src="https://github.com/user-attachments/assets/0aab1ebf-fe9a-46a9-b396-3d5d7afe444d" />
 
-![image](https://github.com/mivCalik/CurriculumVitae/assets/57195581/b0bd5919-4ac5-483c-9489-ea81b5b08cf1)
 
